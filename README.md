@@ -19,7 +19,7 @@ cd to the directory where the pythonexe files are located. Then run:
 >PIL,
 >sys
 
-##P.S.
+## P.S.
 >using pil to format png images and this part was found in GitHub.
 >9.png is for test.
 
