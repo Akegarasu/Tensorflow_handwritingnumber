@@ -15,9 +15,9 @@ cd to the directory where the pythonexe files are located. Then run:
 ```qiuye_run.py xxx.png```
 
 ## including
-###tensorflow
-###PIL
-###sys
+>tensorflow,
+>PIL,
+>sys
 
 
 >p.s.
