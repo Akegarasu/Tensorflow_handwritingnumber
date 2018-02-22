@@ -1,8 +1,10 @@
 ## files
-> qiuye_run.exe
-> ./f
->>model files
-> 9.png
+* qiuye_run.exe
+* ./f
+    >model files
+    >>checkpoint
+    >>*.cktp
+* 9.png
 
 ## model　
 use MINIST trained 1000 times then saved model as "f"
@@ -13,15 +15,15 @@ cd to the directory where the pythonexe files are located. Then run:
 ```qiuye_run.py xxx.png```
 
 ## including
->tensorflow
->PIL
->sys
+###tensorflow
+###PIL
+###sys
 
 
-##p.s.
-    ###using pil to format png images and this part was found in GitHub.
-    ###9.png is for test.
+>p.s.
+    using pil to format png images and this part was found in GitHub.
+    9.png is for test.
 
 
 
-###2018.2.18 Akiba CNN_tensorflow test 003
+#2018.2.18 Akiba CNN_tensorflow test 003
